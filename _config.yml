@@ -1,4 +1,5 @@
 title: Toyosi Akadiri
-description: Data Analyst
-#show_downloads: true
+logo: /Images/Profile_Picture.jpg
+#description: Data Analyst
+show_downloads: true
 theme: jekyll-theme-minimal
