@@ -1,9 +1,7 @@
-# ToyosiAk.github.io
-
 # Data Analyst
 
 ### Education
-BEng - Electrial and Electronics Engineering
+BEng - Electrical and Electronics Engineering
 
 ### Work Experience
 Intern @ Coderina Education and Technology Foundation
