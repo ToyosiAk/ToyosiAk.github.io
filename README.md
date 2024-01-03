@@ -19,5 +19,8 @@
 - Business Statistics and Analysis Specialization (In View)
   -  [Introduction to Data Analysis using Excel](https://www.coursera.org/verify/JQA49ZDW5EVA)
   -  [Basic Data Descriptors, Statistical Distributions, and Applications to Business Decisions](https://www.coursera.org/account/accomplishments/verify/SWTC9TDD92WP)
+  -  [Business Applications of
+Hypothesis Testing and
+Confidence Interval Estimation](https://www.coursera.org/account/accomplishments/verify/62F688T57YU7)
 - [Introduction to SQL](https://api2.sololearn.com/v2/certificates/CC-OT8VGXBR/image/png)
 - [SQL Intermediate](https://api2.sololearn.com/v2/certificates/CC-OQUEC8QW/image/png)
